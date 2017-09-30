@@ -8,6 +8,8 @@ En este repo encontrarás una serie de recursos enfocados en mejorar tu desempe�
 
 Este repo está apenas comenzado y se irá nutriendo principalmente a través de las necesidades para completar los cursos de Código Semilla.
 
+# Las Guías
+- [Configura tu macOS][macos]
 
 
 <br>
@@ -23,19 +25,20 @@ Puedes visitarnos directamente en [Código Semilla][codigo_semilla] en dónde en
 
 Muchas gracias a [thoughtbot][thoughtbot] por su magnifico desarrollo de código abierto, así como por ser la inspiración y referencia para este repo.
 
-**< >** con ❤︎ por **// Código Semilla**
-
 # Licencia
 
 Inicio está © 2017 Código Semilla, S.A.S. de C.V. Es software gratuito y podrá ser redistribuido bajo los términos de la [Licencia][licence].
 
 Inicio 🏁 fue creado y es mantenido por Código Semilla. Los nombres y los logos de Código Semilla son marcas registradas de Código Semilla, S.A.S. de C.V.
 
+---
+**< >** con ❤︎ por **// Código Semilla**
 
 [codigo_semilla]: https://codigosemilla.com
 [facebook]: https://facebook.com/codigosemillapro
 [licence]: LICENCE
 [linkedIn]: https://www.linkedin.com/company/15229670/
+[macos]: setup-macos.md
 [medium]: https://medium.com/@codigosemilla
 [thoughtbot]: https://github.com/thoughtbot
 [twitter]: https://twitter.com/codigosemilla
