@@ -12,14 +12,13 @@ Este repo está apenas comenzado y se irá nutriendo principalmente a través de
 - [Configura tu macOS][macos]
 - [Configura tu Windows][windows]
 
-<br>
-<br>
+<br><br><br><br>
 
 ![codigosemilla](https://s3-us-west-2.amazonaws.com/codigosemilla-bank/codigosemilla_gray_text_376.png)
 
-Código Semilla es una plataforma educativa enfocada en impulsar el desarrollo tecnológico Latinoamericano.
+> Código Semilla es una plataforma educativa enfocada en impulsar el desarrollo tecnológico Latinoamericano.
 
-La meta es clara, que Latinoamérica sea sinónimo de innovación y emprendimiento tecnológico. Por eso, a través de la Educación remota – accesible para un gran número de personas y la Mentoría directa paso a paso sumaremos esfuerzos para un día lograr esta meta.
+La meta es clara, **que Latinoamérica sea sinónimo de innovación y emprendimiento tecnológico**. Por eso, a través de la Educación remota – accesible para un gran número de personas y la Mentoría directa paso a paso sumaremos esfuerzos para un día lograr esta meta.
 
 Puedes visitarnos directamente en [Código Semilla][codigo_semilla] en dónde encontrarás los cursos que tenemos disponibles y también nos podemos conectar a través de [Facebook][facebook], [Twitter][twitter], [LinkedIn][linkedin] y [Medium][medium].
 
