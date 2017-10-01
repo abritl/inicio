@@ -1,6 +1,6 @@
 # Transforma tu macOS en una máquina de desarrollo web y móvil!
 
-En esta guía veremos paso a paso como instalar y configurar lo necesario para que puedas desarrollar en tu mac con herramientas que te harán literalmente tu vida más fácil.
+En esta guía veremos paso a paso como instalar y configurar lo necesario para que puedas desarrollar en tu mac con herramientas que te harán literalmente la vida más fácil.
 
 Vamos a utilizar el `script` [laptop][laptop] creado y mantenido por nuestros amigos/as de [thoughtbot][thoughtbot]. Este script se encargará de instalar y configurar una serie de lenguajes de programación, librerías y paquetes que acelerarán tu desempeño al programar.
 

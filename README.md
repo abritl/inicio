@@ -10,7 +10,7 @@ Este repo está apenas comenzado y se irá nutriendo principalmente a través de
 
 # Las Guías
 - [Configura tu macOS][macos]
-
+- [Configura tu Windows][windows]
 
 <br>
 <br>
@@ -42,3 +42,4 @@ Inicio 🏁 fue creado y es mantenido por Código Semilla. Los nombres y los log
 [medium]: https://medium.com/@codigosemilla
 [thoughtbot]: https://github.com/thoughtbot
 [twitter]: https://twitter.com/codigosemilla
+[windows]: setup-windows.md
