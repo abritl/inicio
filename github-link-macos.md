@@ -1,10 +1,10 @@
 # Enlaza tu mac con GitHub
 
-Ahora que tienes tu cuenta en GitHub, ha llegado el momento de ligarla con tu mac! Para esto vamos a seguir el proceso que GitHub recomienda para autenticar via SSH. Al así, no tendrás que proporcionar tu username y contraseña cada vez que te quieras conectar – que en la práctica sucederá varias veces al día!
+Ahora que tienes tu cuenta en GitHub, ha llegado el momento de ligarla con tu mac! Para esto vamos a seguir el proceso que GitHub recomienda para autenticar via SSH. Así no tendrás que proporcionar tu username y contraseña cada vez que te quieras conectar – que en la práctica sucederá varias veces al día!
 
 1. Genera una nueva llave.
 
-  + Abre iTerm2
+  + Abre tu terminal – por ejemplo iTerm o Command Prompt
 
   + Copia la siguiente línea de código. Asegúrate de cambiar el email por el email con el que te registraste en GitHub.
 
